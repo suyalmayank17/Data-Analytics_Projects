@@ -1,9 +1,7 @@
-# Power BI Dashboard for Blinkit Store Data 🚀
+# **Power BI Dashboard for Blinkit Store Data 🚀**
 
 This project features an interactive **Power BI dashboard** to analyze store performance metrics for Blinkit, India's last-minute delivery app. The dashboard visualizes key insights into sales, outlet types, item categories, and customer ratings, helping make data-driven decisions.
 
-![Dashboard Preview](./dashboard_preview.png)  
-*Upload the dashboard screenshot to your repository as `dashboard_preview.png`*
 
 ## Features
 

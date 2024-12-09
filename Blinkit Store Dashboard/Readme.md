@@ -14,3 +14,6 @@ This project features an interactive **Power BI dashboard** to analyze store per
 - **Power BI**: For creating the dashboard and visualizations.
 - **DAX**: For calculated measures and advanced analysis.
 - **Excel**: For data preprocessing.
+
+**DASHBOARD SCREENSHORT**
+![image](https://github.com/user-attachments/assets/8b44584c-8017-4635-917f-8ea642254a89)
